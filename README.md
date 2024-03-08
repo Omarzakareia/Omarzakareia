@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Omarzakareia
-- 👀 I’m interested in Andriod developing
-- 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in BackEnd ASP.NET developing
+
 
 <!---
 Omarzakareia/Omarzakareia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
