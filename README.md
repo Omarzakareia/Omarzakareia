@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omarzakareia
-- 👀 I’m interested in BackEnd ASP.NET developing
+- 👀 I’m Full Stack .NET Core & Angular Developer
 
 
 <!---
